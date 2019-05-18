@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+/*
+.video {
+    max-width: 1280px;
+    max-height: 720px;
+    position: relative !important;
+}
+*/
+
+.video-container {
+  max-width: 640px !important;
+}
