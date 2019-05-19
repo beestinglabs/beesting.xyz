@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>beesting labs</p>
+        <p class="small-text">makes software and hardware for audio etc.</p>
+        <p class="small-text">it is run and founded by:</p>
         <p><a class="App-link" href="https://norahlorway.com">dr norah lorway</a> + <a class="App-link" href="https://edpowley.com">dr ed powley</a></p>
         <div class="col-12 video-container">
           <div class="embed-responsive embed-responsive-16by9 text-center">

@@ -42,3 +42,7 @@
 .video-container {
   max-width: 640px !important;
 }
+
+.small-text {
+  font-size: calc((10px + 2vmin) * 0.6);
+}
