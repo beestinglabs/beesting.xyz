@@ -9,7 +9,7 @@ function App() {
         <h1>beesting labs</h1>
         <p class="small-text">makes software and hardware for audio etc.</p>
         <p class="small-text">it is run and founded by:</p>
-        <p><a class="App-link" href="https://norahlorway.com">dr norah lorway</a> + <a class="App-link" href="https://edpowley.com">dr ed powley</a> + <a class="App-link" href="https://soundcloud.com/thonhallion">arthur wilson</a></p>
+        <p><a class="App-link" href="https://norahlorway.com">dr norah lorway</a> + <a class="App-link" href="https://edpowley.com">dr ed powley</a> + <a class="App-link" href="https://arthurwilson.xyz">arthur wilson</a></p>
         <p class="small-text">here's what we're working on right now:</p>
         <h2>scorch</h2>
         <p class="small-text">a domain-specific programming language for music and sound, integrating with your existing DAW and synth plugins</p>
