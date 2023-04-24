@@ -1,0 +1,49 @@
+.projects-container
+{
+    aspect-ratio: 6000 / 3376;
+    width: 100vw;
+    background-image: url("../assets/backgrounds/Beesting_Web_Projects.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.projects-container .title
+{
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+.projects-container .projects
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.projects-container img
+{
+}
+
+.projects-container .projectBox
+{
+    padding-top: 3%;
+    padding-left: 3%;
+    width: 50%;
+}
+
+.projects-container .projectBox a
+{
+    color: var(--grey);
+    text-decoration: none;
+}
+
+.projects-container .projectBox a:hover
+{
+    color: var(--darkgrey);
+}
+
